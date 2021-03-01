@@ -1,5 +1,7 @@
 # Crypto Please Protocol
 
+![Logo](HORIZONTAL-Black-Gold.png)
+
 ## DEFI demystified, for everyone.
 
 Up to now, the DeFi space has been uninviting for most, with high barrier to entry. The significant rewards involved in DeFi have only been reserved for those with technical skills and geeky attitude. To be able to access DEFI and start earning great yield with stable coins, most people had to understand the complext concept of private key and crypto-address. The problem wasn't with DeFi yields all along. It was with the barrier to entry which made it exclusive for everyday people.
