@@ -40,7 +40,7 @@ We are open-sourcing for the Solana Defi Hackathon:
 ## Customer oriented product development
 Using this protocol, we plan to develop it into a beautiful wallet in which the power of DeFi and blockchain technology is working seamlessly in the background. Here is our deck on how the wallet will look like, and what can be expected:
 
-![Pitch deck](CryptoPlease-Defi-Solana.pdf)
+[Pitch deck](CryptoPlease-Defi-Solana.pdf)
 
 Please note that the wallet product is still in progress with Dart and Flutter. We did all the UX & design and the MVP during the Hackhton. We have an internal wallet demo which demonstrates the Crypto Please Protocol that we can provide on request here: contact@cryptoplease.com
 
