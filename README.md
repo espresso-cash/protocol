@@ -38,8 +38,9 @@ We are open-sourcing for the Solana Defi Hackathon:
 - our Dart Solana Library to send SOL token that we are using in our demo.
 
 ## Wallet Demo
-![UX](Frame 1.png)
-We did all the UX design during the Hackhton and we have an internal wallet demo that we can provide on request here: contact@cryptoplease.com
+![UX](Frame1.png)
+
+We did all the UX & design and the MVP during the Hackhton. We have an internal wallet demo which demonstre the Crypto Please Protocol that we can provide on request here: contact@cryptoplease.com
 
 ## Team
 We are 6 anonymous people very experienced with coding, blockchain, finance, marketing, and design skills.
