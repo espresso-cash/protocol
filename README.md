@@ -37,10 +37,12 @@ Well we could, but we doubt lots of wallet will adopt it because then it is more
 We are open-sourcing for the Solana Defi Hackathon:
 - our Dart Solana Library to send SOL token that we are using in our demo.
 
-## Wallet Demo
-![UX](Frame1.png)
+## Customer oriented product development
+Using this protocol, we plan to develop it into a beautiful wallet in which the power of DeFi and blockchain technology is working seamlessly in the background. Here is our deck on how the wallet will look like, and what can be expected:
 
-We did all the UX & design and the MVP during the Hackhton. We have an internal wallet demo which demonstre the Crypto Please Protocol that we can provide on request here: contact@cryptoplease.com
+Pitch Deck here
+
+Please note that the wallet product is still in progress with Dart and Flutter. We did all the UX & design and the MVP during the Hackhton. We have an internal wallet demo which demonstrates the Crypto Please Protocol that we can provide on request here: contact@cryptoplease.com
 
 ## Team
 We are 6 anonymous people very experienced with coding, blockchain, finance, marketing, and design skills.
