@@ -33,11 +33,13 @@ We use deep-link to make sure any user (registered or non-registered) can widthd
 ## Why we are not using Solana Smart Contract for the escrow
 Well we could, but we doubt lots of wallet will adopt it because then it is more work for wallets to implement it. In our protocol, the wallet implement is very easy and can be expend to any kind of tokens, SOL, SPL, Bitcoin, ETH etc...
 
-## Library Open source
+## Solana Dart Library Open source
 We are open-sourcing for the Solana Defi Hackathon:
 - our Dart Solana Library to send SOL token that we are using in our demo.
 
-And we have an internal wallet demo that we can provide on request here: contact@cryptoplease.com
+## Wallet Demo
+![UX](Frame 1.png)
+We did all the UX design during the Hackhton and we have an internal wallet demo that we can provide on request here: contact@cryptoplease.com
 
 ## Team
 We are 6 anonymous people very experienced with coding, blockchain, finance, marketing, and design skills.
