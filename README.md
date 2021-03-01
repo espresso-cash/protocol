@@ -25,7 +25,8 @@ The Crypto Please Protocol enables to send SOL token, SPL token or any crypto-cu
 
 ## How it works
 We use deep-link to make sure any user (registered or non-registered) can widthdraw their funds from the payment link. Then we verify the identity of the person who wants to widthdraw the fund by asking him to confirm the verification code associated to the payment link. Then we encrypted the verification code (because we can use Solana address to encrypt messages) into a off-chain database where only the sender can read the answer. We use silent push notification background task to unlock the money on the sender phone after the sender phone has successfully verified that the verification code provided is correct.
-Full flow is detailled here
+
+![Schema](52a7fdfc4a40bb32eeae7529e6385813.png)
 
 ## Library Open source
 We are open-sourcing for the Solana Defi Hackathon:
