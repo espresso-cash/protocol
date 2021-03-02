@@ -30,19 +30,20 @@ We use deep-link to make sure any user (registered or non-registered) can widthd
 
 ![Schema](52a7fdfc4a40bb32eeae7529e6385813.png)
 
-## Why we are not using Solana Smart Contract for the escrow
-Well we could, but we doubt lots of wallet will adopt it because then it is more work for wallets to implement it. In our protocol, the wallet implement is very easy and can be expend to any kind of tokens, SOL, SPL, Bitcoin, ETH etc...
+## Source Code Repos Solana Defi Hackathon
+We worked on 2 repos. A Solana Dart Library and our Flutter application. We are implementing our Solana Dart Library into the flutter application later this week.
 
-## Solana Dart Library Open source
-We are open-sourcing for the Solana Defi Hackathon:
-- our Dart Solana Library to send SOL token that we are using in our demo.
+We add @rmshea and @mattytay on our 2 repos:
+- [Solana Dart Library](https://github.com/cryptoplease/dart-solana-lib)
+- [Flutter Mobile App](https://github.com/cryptoplease/crypto-please) 
 
 ## Customer oriented product development
 Using this protocol, we plan to develop it into a beautiful wallet in which the power of DeFi and blockchain technology is working seamlessly in the background. Here is our deck on how the wallet will look like, and what can be expected:
 
 [Pitch deck](CryptoPlease-Defi-Solana.pdf)
 
-Please note that the wallet product is still in progress with Dart and Flutter. We did all the UX & design and the MVP during the Hackhton. We have an internal wallet demo which demonstrates the Crypto Please Protocol that we can provide on request here: contact@cryptoplease.com
+## Why we are not using Solana Smart Contract for the escrow
+Well we could, but we doubt lots of wallet will adopt it because then it would be more work for wallets to implement it. In our protocol, the wallet implementation is very easy and can be expend to any kind of tokens, SOL, SPL, Bitcoin, ETH etc...
 
 ## Team
 We are 6 anonymous people very experienced with coding, blockchain, finance, marketing, and design skills.
