@@ -4,9 +4,9 @@
 
 ## A protocol to send crypto to all internet users.
 
-We are very excited to present you a revolutionary protocol for the Solana Hackathon 3. We have been working on it since the second Solana Hackathon. Lets be honest, most of the people in the world doesn't care about the blockchain technology. Most of the people are already using Neo-banks applications like Venmo, Paypal or Revolut to exchange money or even invest into crypto. On the other side, we have crypto Wallets which gives access the new financial system but they are difficult to use most of times and more important the onboarding is no-inexistent.
+We are very excited to present you a revolutionary protocol for the Solana Hackathon 3. We have been working on it since the second Solana Hackathon. Lets be honest, most people in the world don't care about the blockchain technology. Most people are already using applications like Venmo, Paypal or Revolut to exchange money or even invest into crypto. On the other side, we have crypto Wallets which gives access the new financial system but they are difficult to use most of the times and more important the onboarding is nonexistent.
 
-That is Until now,  Crypto Please Protocol is the first easy, non custodial and secure protocol to send any kind of crypto to someone who knows literally nothing about crypto and doesn't have yet a crypto-address. Thanks to the Crypto Please Protocol, the sender can generate a URL and 4 digit-pin code that he can share on any messing system to someone. Then this user is incentivized to download the crypto wallet to get his money. Let me show you a demo now
+That is Until now,  Crypto Please Protocol is the first easy, non custodial and secure protocol to send any kind of crypto to someone who knows literally nothing about crypto and doesn't have yet a crypto-address. Thanks to the Crypto Please Protocol, the sender can generate a URL and 4 digit-pin code that he can share on any messing system to someone. Then this user is incentivized to download the crypto wallet to get his money.
 
 
 ## State of the art
