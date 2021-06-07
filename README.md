@@ -40,7 +40,7 @@ We worked on 2 repos. A Solana Dart Library and our Flutter application.
 Using this protocol, we plan to develop it into a beautiful wallet in which the power of DeFi and blockchain technology is working seamlessly in the background. Here is our deck on how the wallet will look like, and what can be expected:
 
 ## Team
-Antoine Herzog (Project Lead)
-Antoine Emezu (Art Director)
-Kirill Bubochkin (Senior Flutter Developer)
-Iharob Al Asimi (Senior Flutter Developer)
+- Antoine Herzog (Project Lead)
+- Antoine Emezu (Art Director)
+- Kirill Bubochkin (Senior Flutter Developer)
+- Iharob Al Asimi (Senior Flutter Developer)
