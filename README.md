@@ -2,7 +2,7 @@
 
 ![Logo](HORIZONTAL-Black-Gold.png)
 
-## DEFI demystified, for everyone.
+## A protocol to send crypto to the next billion users
 
 Up to now, the DeFi space has been uninviting for most, with high barrier to entry. The significant rewards involved in DeFi have only been reserved for those with technical skills and geeky attitude. To be able to access DEFI and start earning great yield with stable coins, most people had to understand the complext concept of private key and crypto-address. The problem wasn't with DeFi yields all along. It was with the barrier to entry which made it exclusive for everyday people.
 Solana is the perfect blockchain to be able to pay people in USDC for example, but people still need to understand how it works.
@@ -31,19 +31,16 @@ We use deep-link to make sure any user (registered or non-registered) can widthd
 ![Schema](52a7fdfc4a40bb32eeae7529e6385813.png)
 
 ## Source Code Repos Solana Defi Hackathon
-We worked on 2 repos. A Solana Dart Library and our Flutter application. We are implementing our Solana Dart Library into the flutter application later this week.
+We worked on 2 repos. A Solana Dart Library and our Flutter application.
 
-We add @rmshea and @mattytay on our 2 repos:
 - [Solana Dart Library](https://github.com/cryptoplease/dart-solana-lib)
 - [Flutter Mobile App](https://github.com/cryptoplease/crypto-please) 
 
 ## Customer oriented product development
 Using this protocol, we plan to develop it into a beautiful wallet in which the power of DeFi and blockchain technology is working seamlessly in the background. Here is our deck on how the wallet will look like, and what can be expected:
 
-[Pitch deck](CryptoPlease-Defi-Solana.pdf)
-
-## Why we are not using Solana Smart Contract for the escrow
-Well we could, but we doubt lots of wallet will adopt it because then it would be more work for wallets to implement it. In our protocol, the wallet implementation is very easy and can be expend to any kind of tokens, SOL, SPL, Bitcoin, ETH etc...
-
 ## Team
-We are 6 anonymous people very experienced with coding, blockchain, finance, marketing, and design skills.
+Antoine Herzog (Project Lead)
+Antoine Emezu (Art Director)
+Kirill Bubochkin (Senior Flutter Developer)
+Iharob Al Asimi (Senior Flutter Developer)
