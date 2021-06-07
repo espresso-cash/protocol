@@ -2,7 +2,7 @@
 
 ![Logo](HORIZONTAL-Black-Gold.png)
 
-## A protocol to send crypto to the next billion users
+## A protocol to send crypto to all internet users.
 
 We are very excited to present you a revolutionary protocol for the Solana Hackathon 3. We have been working on it since the second Solana Hackathon. Lets be honest, most of the people in the world doesn't care about the blockchain technology. Most of the people are already using Neo-banks applications like Venmo, Paypal or Revolut to exchange money or even invest into crypto. On the other side, we have crypto Wallets which gives access the new financial system but they are difficult to use most of times and more important the onboarding is no-inexistent.
 
