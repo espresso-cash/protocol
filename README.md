@@ -4,9 +4,10 @@
 
 ## A protocol to send crypto to the next billion users
 
-Up to now, the DeFi space has been uninviting for most, with high barrier to entry. The significant rewards involved in DeFi have only been reserved for those with technical skills and geeky attitude. To be able to access DEFI and start earning great yield with stable coins, most people had to understand the complext concept of private key and crypto-address. The problem wasn't with DeFi yields all along. It was with the barrier to entry which made it exclusive for everyday people.
-Solana is the perfect blockchain to be able to pay people in USDC for example, but people still need to understand how it works.
-We were thinking how it would be possible to send USDC with Solana to a phone number or to an email then.
+We are very excited to present you a revolutionary protocol for the Solana Hackathon 3. We have been working on it since the second Solana Hackathon. Lets be honest, most of the people in the world doesn't care about the blockchain technology. Most of the people are already using Neo-banks applications like Venmo, Paypal or Revolut to exchange money or even invest into crypto. On the other side, we have crypto Wallets which gives access the new financial system but they are difficult to use most of times and more important the onboarding is no-inexistent.
+
+That is Until now,  Crypto Please Protocol is the first easy, non custodial and secure protocol to send any kind of crypto to someone who knows literally nothing about crypto and doesn't have yet a crypto-address. Thanks to the Crypto Please Protocol, the sender can generate a URL and 4 digit-pin code that he can share on any messing system to someone. Then this user is incentivized to download the crypto wallet to get his money. Let me show you a demo now
+
 
 ## State of the art
 There has been some solutions such as CELO that aimed to simplify how people can access DeFi, yet upon research, we found some significant flaws which we have listed below. After reviewing other protocols, like the CELO protocol, we found some flaws:
