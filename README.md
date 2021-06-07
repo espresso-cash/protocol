@@ -42,6 +42,6 @@ Using this protocol, we plan to develop it into a beautiful wallet in which the 
 
 ## Team
 - Antoine Herzog (Project Lead)
-- Antoine Emezu (Art Director)
+- Anthony Emezu (Art Director)
 - Kirill Bubochkin (Senior Flutter Developer)
 - Iharob Al Asimi (Senior Flutter Developer)
