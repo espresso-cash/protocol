@@ -1,4 +1,3 @@
-![059f390523cfd7564c19b1fc602829fa](https://user-images.githubusercontent.com/13095/121512036-95a34400-c9e9-11eb-9d39-26677fa1d4d6.png)
 # Crypto Please Protocol
 
 ![Logo](HORIZONTAL-Black-Gold.png)
